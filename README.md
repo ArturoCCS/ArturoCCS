@@ -1,10 +1,7 @@
 
-<img align="right" height="150" src="https://www.svgrepo.com/show/421065/game-gamepad-gaming.svg" />
 <h2 align="left">Hi 👋! I'm Arturo - Student of Systems Engineering</h2>
 
-
-
-
+<img align="right" height="150" src="https://www.svgrepo.com/show/421065/game-gamepad-gaming.svg" />
 Welcome to my corner of the Digital World! I'm a passionate **student of Systems Engineering** with a strong interest in **Game Development**, **Software Engineering**, and **Problem Solving**. I enjoy learning new technologies and turning ideas into functional, creative solutions. 🚀
 
 
