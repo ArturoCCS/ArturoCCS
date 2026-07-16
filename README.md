@@ -86,16 +86,6 @@ public final class Arturo extends Person {
 
 ## 📊 My GitHub Stats
 
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ArturoCCS&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturoCCS&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArturoCCS&theme=radical&hide_border=true" alt="GitHub Streak" />
